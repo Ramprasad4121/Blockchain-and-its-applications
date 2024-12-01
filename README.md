@@ -60,8 +60,7 @@ This case study includes the following key areas:
 
 📖 How to Use This Repository
 
-	1.Clone the repository to your local machine:
-git clone https://github.com/Ramprasad4121/Case-Study-on-Blockchain-and-its-applications.git
+	1.Clone the repository to your local machine:git clone https://github.com/Ramprasad4121/Case-Study-on-Blockchain-and-its-applications.git
 	2.Navigate to the docs/ folder for detailed documentation.
 	3.Refer to the diagrams/ folder for visual aids.
 	4.Experiment with the examples in the code/ folder using compatible environments like Solidity or JavaScript.
